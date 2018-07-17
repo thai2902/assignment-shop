@@ -1,0 +1,16 @@
+.cart {
+    display: flex;
+    flex-wrap: wrap;
+    .item-list {
+        flex-grow: 1;
+        min-width: 500px;
+    }
+}
+
+.message-empty {
+    text-align: center;
+    font-weight: bold;
+    font-size: 3rem;
+    margin-top: 3rem;
+    color: #cccccc;
+}

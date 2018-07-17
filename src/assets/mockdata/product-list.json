@@ -1,0 +1,190 @@
+[{
+        "id": "APP001",
+        "name": "IPHONE 6 32GB GOLD 2017",
+        "picture": "/assets/mockdata/pictures/10035013-IPHONE-6-32GB-GOLD-2017-01.jpg",
+        "description": "<p>Màn hình: Retina HD 4.7 ''</p><p>HĐH: iOSCPU: Apple A8</p><p>Camera: sau 8MP, trước 1.2MP</p><p>Bộ nhớ: 32 GB</p>",
+        "price": 295
+    },
+    {
+        "id": "APP002",
+        "name": "IPHONE X 256GB GRAY",
+        "picture": "/assets/mockdata/pictures/10035376-IPHONE-X-64GB-GRAY-01_x4ll-cx.jpg",
+        "description": "<p>Màn hình: OLED 5.8 inch (3D Touch)</p><p>Vi xử lý: A11 Bionic 64 bit</p><p>Bộ nhớ trong: 256 GB</p><p>RAM: 3 GB</p><p>Camera chính: Dual 12MP</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 1382
+    },
+    {
+        "id": "APP003",
+        "name": "IPHONE 6S PLUS 32GB GOLD",
+        "picture": "/assets/mockdata/pictures/10033773-IPHONE-6S-PLUS-32GB-GOLD-_FT_-01.png",
+        "description": "<p>Màn hình IPS 5.5'' FullHD</p><p>Camera trước 5MP</p><p>Camera sau 12MP</p><p>Bộ nhớ trong 32GB/RAM 2GB</p><p>Thiết kế kim loại nguyên khối</p><p>Mặt kính cong 2.5D</p>",
+        "price": 556
+    },
+    {
+        "id": "APP004",
+        "name": "IPHONE X 64GB GRAY",
+        "picture": "/assets/mockdata/pictures/10035376-IPHONE-X-64GB-GRAY-01.jpg",
+        "description": "<p>Màn hình: OLED 5.8 inch (3D Touch)</p><p>Vi xử lý: A11 Bionic 64 bit</p><p>Bộ nhớ trong: 64 GB</p><p>RAM: 3 GB</p><p>Camera chính: Dual 12MP</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 1239
+    },
+    {
+        "id": "APP005",
+        "name": "IPHONE X 64GB GRAY",
+        "picture": "/assets/mockdata/pictures/10035376-IPHONE-X-64GB-GRAY-01_1f9n-ve.jpg",
+        "description": "<p>Màn hình: OLED 5.8 inch (3D Touch)</p><p>Vi xử lý: A11 Bionic 64 bit</p><p>Bộ nhớ trong: 64 GB</p><p>RAM: 3 GB</p><p>Camera chính: Dual 12MP</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 1239
+    },
+    {
+        "id": "APP006",
+        "name": "IPHONE X 256GB SILVER",
+        "picture": "/assets/mockdata/pictures/10035017-IPHONE-X-256GB-SILVER-01_slh6-gi.jpg",
+        "description": "<p>Màn hình: OLED 5.8 inch (3D Touch)</p><p>Vi xử lý: A11 Bionic 64 bit</p><p>Bộ nhớ trong: 256 GB</p><p>RAM: 3 GB</p><p>Camera chính: Dual 12MP</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 1382
+    },
+    {
+        "id": "APP007",
+        "name": "IPHONE 8 PLUS 256GB GOLD",
+        "picture": "/assets/mockdata/pictures/10034788-IPHONE-8-PLUS-256GB-GOLD-01_ihfg-tb.jpg",
+        "description": "<p>Màn hình: IPS 5.5 inch</p><p>Bộ nhớ trong: 256 GB</p><p>RAM: 3 GB</p><p>Camera chính: Dual 12 MP</p><p>Vi xử lý: Apple A11 Bionic</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 1121
+    },
+    {
+        "id": "APP008",
+        "name": "IPHONE 8 PLUS 256GB GRAY",
+        "picture": "/assets/mockdata/pictures/10034789-IPHONE-8-PLUS-256GB-GRAY-01.jpg",
+        "description": "<p>Màn hình: IPS 5.5 inch</p><p>Bộ nhớ trong: 256 GB</p><p>RAM: 3 GB</p><p>Camera chính: Dual 12 MP</p><p>Vi xử lý: Apple A11 Bionic</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 1121
+    },
+    {
+        "id": "APP009",
+        "name": "IPHONE 8 64GB GOLD",
+        "picture": "/assets/mockdata/pictures/10034791-IPHONE-8-64GB-GOLD.jpg",
+        "description": "<p>Màn hình: IPS 4.7 inch</p><p>Bộ nhớ trong: 64 GB</p><p>RAM: 2 GB</p><p>Camera chính: 12 MP</p><p>Vi xử lý: Apple A11 Bionic</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 847
+    },
+    {
+        "id": "APP010",
+        "name": "IPHONE 8 64GB RED",
+        "picture": "/assets/mockdata/pictures/10036364_IPHONE8_64GB-RED-MRRM2VNA_01_ly4n-4v.jpg",
+        "description": "<p>Màn hình IPS 4.7''RAM 2GB</p><p>bộ nhớ 64GB</p><p>CPU Apple A11 Bionic</p><p>Mở khóa vân tay</p><p>kháng nước</p>",
+        "price": 847
+    },
+    {
+        "id": "APP011",
+        "name": "IPHONE 8 PLUS 64GB RED",
+        "picture": "/assets/mockdata/pictures/10036365_IPHONE8_PLUS_64GB-RED-MRT92VNA_01.jpg",
+        "description": "<p>Màn hình IPS 5.5''RAM 3GB</p><p>bộ nhớ 64GB</p><p>CPU Apple A11 Bionic</p><p>Mở khóa vân tay</p><p>kháng nước</p>",
+        "price": 978
+    },
+    {
+        "id": "APP012",
+        "name": "IPHONE X 64GB SILVER",
+        "picture": "/assets/mockdata/pictures/10035017-IPHONE-X-256GB-SILVER-01.jpg",
+        "description": "<p>Màn hình: OLED 5.8 inch (3D Touch)</p><p>Vi xử lý: A11 Bionic 64 bit</p><p>Bộ nhớ trong: 64 GB</p><p>RAM: 3 GB</p><p>Camera chính: Dual 12MP</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 1239
+    },
+    {
+        "id": "APP013",
+        "name": "IPHONE X 256GB SILVER",
+        "picture": "/assets/mockdata/pictures/iphone-x-silver-1_qjcg-tc.jpg",
+        "description": "<p>Màn hình: OLED 5.8 inch (3D Touch)</p><p>Vi xử lý: A11 Bionic 64 bit</p><p>Bộ nhớ trong: 256 GB</p><p>RAM: 3 GB</p><p>Camera chính: Dual 12MP</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 1382
+    },
+    {
+        "id": "APP014",
+        "name": "IPHONE 8 PLUS 64GB GOLD",
+        "picture": "/assets/mockdata/pictures/10034785-IPHONE-8-PLUS-64GB-GOLD.jpg",
+        "description": "<p>Màn hình: IPS 5.5 inch</p><p>Bộ nhớ trong: 64 GB</p><p>RAM: 3 GB</p><p>Camera chính:Dual 12 MP</p><p>Vi xử lý: Apple A11 Bionic</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 978
+    },
+    {
+        "id": "APP015",
+        "name": "IPHONE 8 PLUS 64GB GRAY",
+        "picture": "/assets/mockdata/pictures/10034786-IPHONE-8-PLUS-64GB-GRAY.jpg",
+        "description": "<p>Màn hình: IPS 5.5 inch</p><p>Bộ nhớ trong: 64 GB</p><p>RAM: 3 GB</p><p>Camera chính:Dual 12 MP</p><p>Vi xử lý: Apple A11 Bionic</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 978
+    },
+    {
+        "id": "APP016",
+        "name": "IPHONE X 64GB SILVER",
+        "picture": "/assets/mockdata/pictures/10035017-IPHONE-X-256GB-SILVER-01_lczk-de.jpg",
+        "description": "<p>Màn hình: OLED 5.8 inch (3D Touch)</p><p>Vi xử lý: A11 Bionic 64 bit</p><p>Bộ nhớ trong: 64 GB</p><p>RAM: 3 GB</p><p>Camera chính: Dual 12MP</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 1239
+    },
+    {
+        "id": "APP017",
+        "name": "IPHONE X 256GB GRAY",
+        "picture": "/assets/mockdata/pictures/iphone-x-gray_4lfu-rb.jpg",
+        "description": "<p>Màn hình: OLED 5.8 inch (3D Touch)</p><p>Vi xử lý: A11 Bionic 64 bit</p><p>Bộ nhớ trong: 256 GB</p><p>RAM: 3 GB</p><p>Camera chính: Dual 12MP</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 1382
+    },
+    {
+        "id": "APP018",
+        "name": "IPHONE 8 PLUS 256GB SILVER",
+        "picture": "/assets/mockdata/pictures/10034790-IPHONE-8-PLUS-256GB-SILVER.jpg",
+        "description": "<p>Màn hình: IPS 4.7 inch</p><p>Bộ nhớ trong: 64 GB</p><p>RAM: 2 GB</p><p>Camera chính: 12 MP</p><p>Vi xử lý: Apple A11 Bionic</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 1121
+    },
+    {
+        "id": "APP019",
+        "name": "IPHONE 8 64GB GRAY",
+        "picture": "/assets/mockdata/pictures/10034792-IPHONE-8-64GB-GRAY.jpg",
+        "description": "<p>Màn hình: IPS 5.5 inch</p><p>Bộ nhớ trong: 256 GB</p><p>RAM: 3 GB</p><p>Camera chính: Dual 12 MP</p><p>Vi xử lý: Apple A11 Bionic</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 847
+    },
+    {
+        "id": "APP020",
+        "name": "IPHONE 8 64GB SILVER",
+        "picture": "/assets/mockdata/pictures/10034793-IPHONE-8-64GB-SILVER.jpg",
+        "description": "<p>Màn hình: IPS 4.7 inch</p><p>Bộ nhớ trong: 64 GB</p><p>RAM: 2 GB</p><p>Camera chính: 12 MP</p><p>Vi xử lý: Apple A11 Bionic</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 847
+    },
+    {
+        "id": "APP021",
+        "name": "IPHONE 7 PLUS 128GB GOLD",
+        "picture": "/assets/mockdata/pictures/10035345-IPHONE-7-PLUS-128GB-GOLD.jpg",
+        "description": "<p>Màn hình: Retina HD 5.5 ''</p><p>Hệ điều hành: iOS 10CPU: Apple A10</p><p>Camera: 12MP, 7MP</p><p>Bộ nhớ: 128</p>",
+        "price": 869
+    },
+    {
+        "id": "APP022",
+        "name": "IPHONE 6S GOLD 32GB",
+        "picture": "/assets/mockdata/pictures/10031688-IPHONE-6S-32GB-GOLD-_FT_-01.png",
+        "description": "<p>Màn hình: Retina HD, 4.7 inches</p><p>HĐH: iOS 10CPU: Chipset Apple A9</p><p>Camera: 12 MP, 5MP</p><p>Bộ nhớ: 32GB</p>",
+        "price": 434
+    },
+    {
+        "id": "APP023",
+        "name": "IPHONE 8 256GB GRAY",
+        "picture": "/assets/mockdata/pictures/10034795-IPHONE-8-256GB-GRAY.jpg",
+        "description": "<p>Màn hình: IPS 4.7 inch</p><p>Bộ nhớ trong: 256 GB</p><p>RAM: 2 GB</p><p>Camera chính: 12 MP</p><p>Vi xử lý: Apple A11 Bionic</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 991
+    },
+    {
+        "id": "APP024",
+        "name": "IPHONE 7 32GB BLACK",
+        "picture": "/assets/mockdata/pictures/10030711-IPHONE-7-32GB-BLACK-_FT_-01.png",
+        "description": "<p>Màn hình: Retina HD 4.7'' </p><p>Hệ điều hành: iOS 10CPU: Apple A10</p><p>Camera: 12MP, 7MP</p><p>Bộ nhớ: 32GB</p>",
+        "price": 565
+    },
+    {
+        "id": "APP025",
+        "name": "IPHONE 8 256GB GOLD",
+        "picture": "/assets/mockdata/pictures/10034794-IPHONE-8-256GB-GOLD.jpg",
+        "description": "<p>Màn hình: IPS 4.7 inch</p><p>Bộ nhớ trong: 256 GB</p><p>RAM: 2 GB</p><p>Camera chính: 12 MP</p><p>Vi xử lý: Apple A11 Bionic</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 991
+    },
+    {
+        "id": "APP026",
+        "name": "IPHONE 8 256GB SILVER",
+        "picture": "/assets/mockdata/pictures/10034796-IPHONE-8-256GB-SILVER.jpg",
+        "description": "<p>Màn hình: IPS 4.7 inch</p><p>Bộ nhớ trong: 256 GB</p><p>RAM: 2 GB</p><p>Camera chính: 12 MP</p><p>Vi xử lý: Apple A11 Bionic</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 991
+    },
+    {
+        "id": "APP027",
+        "name": "IPHONE 8 PLUS 64GB SILVER",
+        "picture": "/assets/mockdata/pictures/10034787-IPHONE-8-PLUS-64GB-SILVER.jpg",
+        "description": "<p>Màn hình: IPS 5.5 inch</p><p>Bộ nhớ trong: 64 GB</p><p>RAM: 3 GB</p><p>Camera chính: Dual 12 MP</p><p>Vi xử lý: Apple A11 Bionic</p><p>Hệ điều hành: iOS 11</p>",
+        "price": 978
+    }
+]

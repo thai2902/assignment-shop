@@ -1,0 +1,15 @@
+<mat-card class="product-item">
+  <mat-card-content>
+    <img [src]="product?.picture || 'assets/images/default/picture.svg'" [alt]="product?.name">
+    <div class="name">{{product?.name}}</div>
+    <div class="price">Pirce: {{(product?.price || 0) | number}} USD</div>
+  </mat-card-content>
+  <mat-card-actions class="card-action">
+    <button mat-raised-button color="primary" type="button" (click)="onAddToCart()">
+      <mat-icon>shopping_cart</mat-icon>
+    </button>
+    <button mat-raised-button color="primary" type="button" (click)="onAddToWishlist()">
+      <mat-icon svgIcon="wishlist"></mat-icon>
+    </button>
+  </mat-card-actions>
+</mat-card>

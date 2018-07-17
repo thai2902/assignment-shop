@@ -1,0 +1,16 @@
+<div class="cart">
+  <div class="item-list">
+    <app-cart-item
+      *ngFor="let item of (cart$ | async).items"
+      [cartItem]="item"
+      (addToWishlist)="addToWishlist(item)"
+      (remove)="remove(item)"></app-cart-item>
+
+      <div class="message-empty" *ngIf="(cart$ | async).items?.length === 0">
+          CART IS EMPTY
+      </div>
+  </div>
+  <div class="customer-form">
+    <app-customer-info></app-customer-info>
+  </div>
+</div>

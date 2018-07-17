@@ -1,0 +1,19 @@
+mat-card {
+    margin: 10px;
+}
+
+.form-info {
+    display: flex;
+    flex-direction: column;
+    min-width: 400px;
+    ;
+}
+
+.card-actions {
+    display: flex;
+    justify-content: center;
+    .btn-save {
+        min-width: 150px;
+    }
+
+}

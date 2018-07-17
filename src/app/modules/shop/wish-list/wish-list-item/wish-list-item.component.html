@@ -1,0 +1,20 @@
+<mat-card class="wishlist-item">
+  <div class="picture">
+    <img [src]="wishListItem.product.picture" [alt]="wishListItem.product.name">
+  </div>
+  <div class="info">
+    <div class="name">{{wishListItem.product.name}}</div>
+    <!-- <p class="desc">{{wishListItem.product.description}}</p> -->
+    <p class="desc" [innerHTML]="wishListItem.product.description"></p>
+    <div class="date">Added {{wishListItem.dateAdded | amCalendar}}</div>
+    <div class="price">Price: {{wishListItem.product.price | number}} USD</div>
+    <div class="card-action">
+      <button type="button" mat-icon-button color="primary" (click)="addToCart.emit(wishListItem.product)">
+        <mat-icon>shopping_cart</mat-icon>
+      </button>
+      <button type="button" mat-icon-button color="primary" (click)="remove.emit(wishListItem)">
+        <mat-icon>close</mat-icon>
+      </button>
+    </div>
+  </div>
+</mat-card>
